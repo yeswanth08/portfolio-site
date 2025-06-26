@@ -1,33 +1,33 @@
 const experience =  [
   {
-    company: "SampurnaKart",
-    position: "Founding Backend Engineer",
-    startDate: "Oct 2023",
-    endDate: "Present",
+    company: "Macbease Connections ",
+    postion: "Intern Software Engineer",
+    startDate: "jun 2025",
+    endDate: "present",
+    responsibilities:[
+      "Assisted in the development of web applications using React and Node.js.",
+      "Participated in daily stand-ups and sprint planning meetings to align with team goals.",
+      "Contributed to the design and implementation of RESTful APIs.",
+      "microservices architecture.",
+      "Collaborated with senior developers to troubleshoot and resolve bugs."
+    ]
+  },{
+    company: "JSM Tech Enterprise",
+    position: "Full Stack Developer",
+    startDate: "apr 2024",
+    endDate: "aug 2024",
     responsibilities: [
-      "Design and develop the entire backend system for the e-commerce startup.",
-      "Build and own the cloud infrastructure of the organization",
-      "Develop internal tools to streamline operations and improve team efficiency."
+      "Developed and maintained web applications using React, Node.js, and MongoDB.",
+      "Collaborated with cross-functional teams to design and implement new features.",
+      "Optimized application performance and ensured responsiveness across devices.",
+      "Participated in code reviews and contributed to team knowledge sharing."
     ],
     achievements: [
-      "Developed set of internal tools that reduced operational workload by 60% and improved team efficiency, saving 30 hours per week.",
-      "Reduced cloud expenses by 50% through migration and optimization of the cloud infrastructure"
+      "Improved application load time by 30% through code optimization and efficient state management.",
+      "Successfully launched a new feature that increased user engagement by 20%.",
+      "Contributed to the migration of legacy code to modern frameworks, enhancing maintainability."
     ]
-  },
-  {
-    company: "Hacktoberfest 2023",
-    position: "Open Source Contribution",
-    startDate: "Oct 2023",
-    endDate: "Oct 2023",
-    responsibilities: [
-      "Contributed to some of the promising open-source projects.",
-      "Helped the community by reviewing and merging pull requests."
-    ],
-    achievements: [
-      "Contributed to 2+ open-source projects and helped the community by reviewing and merging pull requests.",
-      "Helped other developers to contribute to open-source projects for the first time."
-    ]
-  },
+  }
 ]
 
 export default experience;

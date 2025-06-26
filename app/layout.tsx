@@ -8,7 +8,7 @@ const geistSans = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Alan James - Portfolio",
+  title: "Yeswanth Chinnam Naidu - Portfolio",
   description: "My portfolio website, obviously",
 };
 

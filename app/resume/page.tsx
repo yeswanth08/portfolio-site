@@ -4,7 +4,7 @@ export default function Page(){
   return (
     <div className="max-w-4xl mx-auto p-8  shadow-lg">
       <header className="mb-8">
-        <h1 className="text-4xl font-bold mb-2">ALAN JAMES</h1>
+        <h1 className="text-4xl font-bold mb-2">Yeswanth Chinnam Naidu</h1>
         <div className="flex flex-wrap gap-4 text-sm">
           <div className="flex items-center"><Phone className="w-4 h-4 mr-2" /> +91-9074697376</div>
           <div className="flex items-center"><Mail className="w-4 h-4 mr-2" /> alanjames6282@gmail.com</div>
