@@ -1,7 +1,7 @@
 const experience =  [
   {
     company: "Macbease Connections ",
-    postion: "Intern Software Engineer",
+    position: "Intern Software Engineer",
     startDate: "jun 2025",
     endDate: "present",
     responsibilities:[
@@ -10,6 +10,9 @@ const experience =  [
       "Contributed to the design and implementation of RESTful APIs.",
       "microservices architecture.",
       "Collaborated with senior developers to troubleshoot and resolve bugs."
+    ],achievements:[
+      "Successfully completed a project that improved the user interface of an existing application, resulting in a 15% increase in user satisfaction.",
+      "Implemented automated testing for key components, reducing bugs in production by 25%.",  
     ]
   },{
     company: "JSM Tech Enterprise",

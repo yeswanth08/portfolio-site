@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function ProjectCard({ title, description, tags, githubUrl, url }: { title: string, description: string, tags: string[], demoUrl: string, githubUrl: string, url: string }) {
+export default function ProjectCard({ title, description, tags, githubUrl, url }: { title: string, description: string, tags: string[], githubUrl: string, url: string }) {
 
     const tagColors = [
             'bg-blue-100 text-blue-800',

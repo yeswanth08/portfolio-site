@@ -1,7 +1,7 @@
 "use client"
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
-import { Home, User, Briefcase, Code, Github, Linkedin, Twitter, BookOpenText, Binary } from 'lucide-react'
+import { Home, User, Briefcase, Code, Github, Linkedin, BookOpenText, Binary } from 'lucide-react'
 import socials from '@/data/socials';
 
 export default function Sidebar() {
@@ -52,9 +52,6 @@ export default function Sidebar() {
                         </a>
                         <a href={socials.linkedin} target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
                             <Linkedin className="h-6 w-6 text-gray-300 hover:text-white" />
-                        </a>
-                        <a href={socials.twitter} target="_blank" rel="noopener noreferrer" aria-label="Twitter">
-                            <Twitter className="h-6 w-6 text-gray-300 hover:text-white" />
                         </a>
                     </div>
                 </div>

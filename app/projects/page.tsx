@@ -14,7 +14,6 @@ export default function Page() {
                         title={project.title}
                         description={project.description}
                         tags={project.tags}
-                        demoUrl={project.demoUrl}
                         githubUrl={project.githubUrl}
                         url={project.url}
                     />
