@@ -6,10 +6,10 @@ export default function Page(){
       <header className="mb-8">
         <h1 className="text-4xl font-bold mb-2">Yeswanth Chinnam Naidu</h1>
         <div className="flex flex-wrap gap-4 text-sm">
-          <div className="flex items-center"><Phone className="w-4 h-4 mr-2" /> +91-9074697376</div>
-          <div className="flex items-center"><Mail className="w-4 h-4 mr-2" /> alanjames6282@gmail.com</div>
-          <div className="flex items-center"><Linkedin className="w-4 h-4 mr-2" /> alan-james-in</div>
-          <div className="flex items-center"><Github className="w-4 h-4 mr-2" /> alanjames00</div>
+          <div className="flex items-center"><Phone className="w-4 h-4 mr-2" /> +91-6281827437</div>
+          <div className="flex items-center"><Mail className="w-4 h-4 mr-2" /> curiousyeswanth003@gmail.com</div>
+          <div className="flex items-center"><Linkedin className="w-4 h-4 mr-2" /> yeswanthchinnamnaidu</div>
+          <div className="flex items-center"><Github className="w-4 h-4 mr-2" /> yeswanth08</div>
           <div className="flex items-center"><MapPin className="w-4 h-4 mr-2" /> Jalandhar City, Punjab, India</div>
         </div>
       </header>
@@ -20,11 +20,10 @@ export default function Page(){
         <div className="mb-4">
           <h3 className="text-lg font-semibold">Backend Engineer</h3>
           <div className="text-sm">
-            <p className="font-medium">SampurnKart</p>
-            <p>Jalandhar, India | Oct 2023 - Mar 2024</p>
+            <p className="font-medium">Macbease Connections</p>
+            <p>Jalandhar, India | June 2025 - Present </p>
           </div>
           <ul className="list-disc list-inside text-sm mt-2">
-            <li>Engineered the complete backend systems for the ecommerce service startup.</li>
             <li>Developed Various Internal Tools that power day-to-day company operations.</li>
             <li>Implemented robust and scalable cloud infrastructure for the organization.</li>
             <li>Reduced cloud expenses by 50% through migration and optimization of the cloud infrastructure.</li>
@@ -39,15 +38,15 @@ export default function Page(){
           <div className="text-sm">
             <p className="font-medium">Lovely Professional University</p>
             <p>Jalandhar, India | Aug 2022 - Present</p>
-            <p>GPA: 8.85/10.00</p>
+            <p>GPA: 8.3/10.00</p>
           </div>
         </div>
         <div className="mb-4">
           <h3 className="text-lg font-semibold">Secondary Education</h3>
           <div className="text-sm">
-            <p className="font-medium">St Thomas HSS Thomapuram</p>
-            <p>Kasargod, Kerala, India | Aug 2021</p>
-            <p>GPA: 9.95/10</p>
+            <p className="font-medium">Narayana School</p>
+            <p>AP, India </p>
+            <p>GPA: 10/10</p>
           </div>
         </div>
       </section>
@@ -63,17 +62,6 @@ export default function Page(){
             <li>Added support for multiple languages including C, C++, Python, and JavaScript</li>
             <li>Optimized for near-local compilation and runtime speeds</li>
             <li>Engineered truly parallel code execution for multiple requests simultaneously</li>
-          </ul>
-        </div>
-        <div className="mb-4">
-          <h3 className="text-lg font-semibold">PairCode: Real-time collaborative code editor</h3>
-          <p className="text-sm font-medium">Dec 2023</p>
-          <p className="text-sm">Tools: Nodejs, ExpressJs, NextJs, Websockets, Docker</p>
-          <ul className="list-disc list-inside text-sm mt-2">
-            <li>Developed a real-time collaborative code editor for pair programming and interviews</li>
-            <li>Implemented a modern online code editor with syntax highlighting and code suggestions</li>
-            <li>Made use of Websockets for real-time collaboration</li>
-            <li>Implemented a built-in compiler supporting more than 10 programming languages</li>
           </ul>
         </div>
       </section>
@@ -94,19 +82,11 @@ export default function Page(){
       <section className="mb-8">
         <h2 className="text-2xl font-semibold mb-2">HONORS AND AWARDS</h2>
         <div className="mb-4">
-          <h3 className="text-lg font-semibold">NASA Space App Hackathon Global Finalist Nominee</h3>
-          <p className="text-sm font-medium">Space App Challenge, NASA | Oct 2023</p>
+          <h3 className="text-lg font-semibold">Winter School Of Engineering Science Conference</h3>
+          <p className="text-sm font-medium">St.Petersburg , Russia | Nov 2024</p>
           <ul className="list-disc list-inside text-sm mt-2">
-            <li>Secured first position in IIT KGP Local Round and became one of the top 50 teams from India.</li>
-            <li>Built a moonquakes computer simulation for visualizing moonquakes happened over years.</li>
-          </ul>
-        </div>
-        <div className="mb-4">
-          <h3 className="text-lg font-semibold">RCS CTF 2023 Third Position</h3>
-          <p className="text-sm font-medium">Capture The Flag University Level, LPU | Jan 2024</p>
-          <ul className="list-disc list-inside text-sm mt-2">
-            <li>Secured third position in the university level Capture The Flag Competition</li>
-            <li>Honed Cybersecurity Skills for continous 24-Hour Challenge.</li>
+            <li>Attended to the winter school of Engineering Science Conference at russia </li>
+            <li>which is a fully funded Conference</li>
           </ul>
         </div>
       </section>
